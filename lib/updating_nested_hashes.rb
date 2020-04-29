@@ -20,8 +20,8 @@ def update_status
       }
    }
 
-  # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
-  # Code your solution here:
+  romeo_dead = :hero => {status: "dead"}
+  juliet_dead = :heroine => {status: "dead"}
 
 
 
